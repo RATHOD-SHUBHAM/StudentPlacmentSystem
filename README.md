@@ -1,4 +1,4 @@
-# StudentPlacmentSystem
+# StudentPlacementSystem
 
 * Campus Placement Management System is built using Java, Servlet, and MYSQL Database, and is developed to manage the Campus Placement Activity through a portal.
 * This project is designed to help students plan their career and help them apply to a job  they fit in. 
